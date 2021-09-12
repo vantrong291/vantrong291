@@ -23,7 +23,7 @@ I'm a vantrong291, developer from Vietnam VN.
 </a>
 <br/>
   
-##### My public github stats
+##### Public github stats
 <a href="https://github.com/vantrong291">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vantrong291&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
 </a>
