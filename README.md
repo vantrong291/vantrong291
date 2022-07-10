@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=vantrong291.vantrong291)
 <br />
-I'm a vantrong291, developer from Vietnam VN.
+I'm a vantrong291 (Trong V. Pham), software engineering from Vietnam VN.
 
 ##### Languages and Tools
 <span>
