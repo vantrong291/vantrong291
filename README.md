@@ -6,11 +6,11 @@
 <!--!
 [Visitors](https://api.visitorbadge.io/api/combined?path=vantrong291&countColor=%23263759&style=flat&labelStyle=upper)
 -->
-<p align="center">
+<!-- <p align="center">
   <a href="#">
     <img src="https://vbr.wocr.tk/badge?page_id=vantrong291.vantrong291&color=00cf00" /></a>
   </a>
-</p>
+</p> -->
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm a vantrong291 (Trong V. Pham), software engineering from Vietnam VN.
@@ -34,7 +34,7 @@ I'm a vantrong291 (Trong V. Pham), software engineering from Vietnam VN.
 
 ##### Contacts  
 <a href="https://www.linkedin.com/in/vantrong291/">
-  <img align="left" alt="vantrong291's LinkedIN" width="20px" src="https://camo.githubusercontent.com/00974afc84e6984c98cb5c971879e88b31387aa90f1f91795586266a48d2ed88/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" />
+  <img align="left" alt="vantrong291's LinkedIN" width="20px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
 </a>
 <br/>
   
