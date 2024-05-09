@@ -3,9 +3,6 @@
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Trong+V.+Pham;Software+Engineer+from+Vietnam+VN;5%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22" /></a>
 </p>
-<!--!
-[Visitors](https://api.visitorbadge.io/api/combined?path=vantrong291&countColor=%23263759&style=flat&labelStyle=upper)
--->
 <!-- <p align="center">
   <a href="#">
     <img src="https://vbr.wocr.tk/badge?page_id=vantrong291.vantrong291&color=00cf00" /></a>
